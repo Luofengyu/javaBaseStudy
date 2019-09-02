@@ -35,7 +35,6 @@ public class InArrayClassAddress {
         for(int i=0; i<2; i++){
             System.out.println("arr["+ i + "]: " + arr[i].getName());
         }
-
     }
 
 }
